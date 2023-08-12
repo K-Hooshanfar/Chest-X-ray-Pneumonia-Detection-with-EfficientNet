@@ -27,4 +27,13 @@ Due to data limitations, data augmentation techniques have been employed to addr
 Horizontal Flipping - Rotation - Zooming - Brightness Adjustment - Shearing
 
 
-# Dataset
+# Results
+![03a5ec87-ba7d-4845-bca7-c9c40eb7e05e](https://github.com/K-Hooshanfar/Chest-X-ray-Pneumonia-Detection-with-EfficientNet/assets/83825004/765d5891-ce1e-4d92-95ce-39d053b54609)
+
+![4759f686-88fb-477a-ba1c-f419e7a8c82b](https://github.com/K-Hooshanfar/Chest-X-ray-Pneumonia-Detection-with-EfficientNet/assets/83825004/7872fcc2-fc15-48ac-afd9-6ea1d144c4e7)
+
+![af346a58-0f3f-4572-a4c7-25d79db13492](https://github.com/K-Hooshanfar/Chest-X-ray-Pneumonia-Detection-with-EfficientNet/assets/83825004/7447099a-173c-438e-aec3-7b2fc2c9d312)
+
+
+
+
